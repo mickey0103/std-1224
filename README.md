@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-# 👋 Welcome! I'm Anh Phuc
+# 👋 Welcome! To visit My Github Profile
 🚀 **Full-Stack Developer**
  
 I breathe code and love turning ideas into reality!  
@@ -10,16 +10,15 @@ Building seamless digital experiences is my passion, whether it’s a dynamic we
 ---
  
 ## 🌱 About Me  
-🔹 7+ years of experience in front-end & full-stack development  
+🔹 6+ years of experience in Front-end &  Mobile(iOS & Android) full-stack development  
 🔹 Passionate about building scalable, interactive web & mobile apps  
-🔹 Experienced in **React.js, Next.js, Nuxt.js, Vue.js, Angular, Flutter, OpenAI, Node.js, Django, Python,**  
+🔹 Experienced in **React.js, Next.js, Vue.js, Nuxt.js, Node.js, Python, FastAPI, Django** 
  
 💬 Let’s connect and build something great together!  
  
 ---
  
 ## 💼 What I Do  
-🚀 **Front-End Development** → React, Next.js, Vue.js, Nuxt.js, Angular.js, Flutter.
  
 🔹 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: React.js, Next.js, Vue.js, Nuxt.js, Gatsby
  
